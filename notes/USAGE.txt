@@ -1,0 +1,4 @@
+USAGE LosslessScalingLSFG
+lossless scaling best settings. LSFG 3.
+Extract. Run. See readme.
+Stamp rev-r4ni5p-20261023
